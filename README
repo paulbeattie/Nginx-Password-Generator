@@ -1,0 +1,5 @@
+Nginx Password Generator
+Author: Paul Beattie, paul@paul-beattie.com
+
+Description:
+This is a simple script that prompts for username and password and outputs this ready for insertion into the Nginx passwd file that you have created.
